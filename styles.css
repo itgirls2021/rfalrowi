@@ -1,9 +1,18 @@
 body {color: rgb(247, 155, 170); background-color: lavenderblush;
     font-family: 'Merienda', cursive; }
-h1 {color: palevioletred; background-color: lightpink; font-family: 'Kaushan Script', cursive;}
+
+    h1 {color: palevioletred; background-color: lightpink; font-family: 'Kaushan Script', cursive;}
+
 h2 {color: palevioletred; font-family: 'Kaushan Script', cursive;}
-nav {background-color: lightpink;}
+
+nav {
+    padding: 10px;
+    margin-bottom: 30px;
+    background-color: lightpink;
+}
+
 nav a {color: mistyrose;}
+
 nav {color: mistyrose;}
 
 nav a:hover {background-color: thistle;}
