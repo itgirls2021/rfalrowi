@@ -16,3 +16,11 @@ nav a {color: mistyrose;}
 nav {color: mistyrose;}
 
 nav a:hover {background-color: thistle;}
+
+div {
+    border: 1px solid black;
+    margin: 30px;
+    padding: 50px;
+    background-color: white;
+    border-radius: 25px;
+}
