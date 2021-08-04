@@ -18,9 +18,9 @@ nav {color: mistyrose;}
 nav a:hover {background-color: thistle;}
 
 div {
-    border: 1px solid black;
+    border: 1px solid rgb(138, 18, 58);
     margin: 30px;
     padding: 50px;
-    background-color: white;
-    border-radius: 25px;
+    background-color: floralwhite;
+    border-radius: 30px;
 }
